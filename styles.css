@@ -1,0 +1,42 @@
+body{
+	background:url(images.jpg);
+	background-size:cover;
+	text-align: center;
+
+}
+h1{color:white;
+	text-align:center;
+	font-family:Lobster;
+
+}
+h2{
+	color:rgba(52, 195, 235,1);
+
+	font-size:80px;
+	font-style: bold;
+	font-family:Liu Jian Mao Cao;
+}
+button{
+	box-sizing:50px;
+}
+
+p{
+	color:red;
+
+
+
+	font-size:25px;
+}
+/*.jumbotron{
+	opacity:0.3;
+	margin-top:20px;
+	margin-right:50%;
+	margin-bottom:50%;
+
+}*/
+div{
+	/*border:5px solid orange;
+	width:25%;*/
+
+
+}
